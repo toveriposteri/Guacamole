@@ -1,0 +1,4 @@
+# ignore pyhon files
+*.py
+# ignore python binaries
+*.pyc
